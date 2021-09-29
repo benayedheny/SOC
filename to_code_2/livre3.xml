@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<x1:livre titre="Livre"
+	xmlns:x1="http://www.masociete.com"
+	xmlns:x2="http://www.monentreprise.com">
+	<x1:auteurs>
+		<x1:auteur  prenom="Prenom 1" nom="Nom 1"/>
+		<x2:auteur  prenom="Prenom 2" nom="Nom 2"/>
+	</x1:auteurs>
+	<x1:sections>
+		<x1:section titre="Section 1">
+			<x1:chapitre titre="Chapitre 1">
+				<x1:paragraphe>paragraphe 1</x1:paragraphe>
+				<x1:paragraphe>paragraphe 2</x1:paragraphe>
+			</x1:chapitre>
+		</x1:section>
+		<x2:section titre="Section 2">
+			<x2:chapitre titre="Chapitre 1">
+				<x2:paragraphe>paragraphe 1</x2:paragraphe>
+				<x2:paragraphe>paragraphe 2</x2:paragraphe>
+			</x2:chapitre>
+			<x2:chapitre titre="Chapitre 2">
+				<x2:paragraphe>paragraphe 1</x2:paragraphe>
+				<paragraphe>paragraphe 2</paragraphe>
+			</x2:chapitre>
+		</x2:section>
+	</x1:sections>
+</x1:livre>
