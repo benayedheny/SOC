@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Annuaire xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="annuaire2.xsd">
-    <contact titre="contact" techno="techno">
-        <nom>Heny</nom>
-        <prenom>BEN AYED </prenom>
-        <telephone>12 345 678</telephone>
-        <email>henybenayed3@gmail.com</email>
-    </contact>
-</Annuaire>
